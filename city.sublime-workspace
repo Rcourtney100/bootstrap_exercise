@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getCurrentValue"
+			],
+			[
+				"g",
+				"getCurrentValue"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"back",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryancourtney/Desktop/Sass-intro/stylesheets/styles.scss",
+		"/Users/ryancourtney/Desktop/Sass-intro/stylesheets/_maincontent.scss",
+		"/Users/ryancourtney/Desktop/Sass-intro/index.html",
+		"/Users/ryancourtney/Desktop/Sass-intro/css/styles.css",
+		"/Users/ryancourtney/Desktop/Jukebox/index.html",
+		"/Users/ryancourtney/Downloads/typo-practice-2/main.js",
+		"/Users/ryancourtney/Downloads/jukebox example/jukebox.html",
+		"/Users/ryancourtney/Downloads/jukebox example/jukebox.js",
+		"/Users/ryancourtney/Downloads/jukebox example 2/jukebox.js",
+		"/Users/ryancourtney/Desktop/Jukebox/soundcloudapi.html",
+		"/Users/ryancourtney/Desktop/Jukebox/jukebox.js",
+		"/Users/ryancourtney/Desktop/Jukebox/api.js",
+		"/Users/ryancourtney/Downloads/typo-practice/index.html",
+		"/Users/ryancourtney/Downloads/typo-practice/main.js",
+		"/Users/ryancourtney/Desktop/Jukebox/script.js",
+		"/Users/ryancourtney/Desktop/OO_Javascript_Hmwk/oojshmwk.js",
+		"/Users/ryancourtney/Desktop/Jukebox/soundcloadapi.html",
+		"/Users/ryancourtney/Desktop/jukebox.js",
+		"/Users/ryancourtney/Desktop/soundcloadapi.html",
+		"/Users/ryancourtney/Desktop/api.js",
+		"/Users/ryancourtney/Desktop/api.html",
+		"/Users/ryancourtney/Desktop/OO_Javascript_Hmwk/index.html",
+		"/Users/ryancourtney/Desktop/Nycda/jQueryintro.js",
+		"/Users/ryancourtney/Desktop/Nycda/jQueryIntro.html",
+		"/Users/ryancourtney/Desktop/Nycda/Acme.html",
+		"/Users/ryancourtney/Desktop/OO_Javascript_mini_Challenges/object.js",
+		"/Users/ryancourtney/Desktop/index.html",
+		"/Users/ryancourtney/Desktop/oojshmwk.js",
+		"/Users/ryancourtney/Desktop/object.js",
+		"/Users/ryancourtney/Desktop/Nycda/modalworkshop/modalworkshop.js",
+		"/Users/ryancourtney/Desktop/modalworkshop/modalworkshop.css",
+		"/Users/ryancourtney/Desktop/modalworkshop/modalworkshop.js",
+		"/Users/ryancourtney/Desktop/modalworkshop/modalworkshop.html",
+		"/Users/ryancourtney/Desktop/friends.html",
+		"/Users/ryancourtney/Desktop/friends.js",
+		"/Users/ryancourtney/Desktop/Homework4/homework4_2.js",
+		"/Users/ryancourtney/Desktop/Homework4/homework4_2.html",
+		"/Users/ryancourtney/Desktop/digitalclock/digitalclock.js",
+		"/Users/ryancourtney/Desktop/digitalclock/digitalclock.html",
+		"/Users/ryancourtney/Desktop/digitalclock.css",
+		"/Users/ryancourtney/Desktop/digitalclock.js",
+		"/Users/ryancourtney/Desktop/digitalclock.html",
+		"/Users/ryancourtney/Desktop/digitalclock/digitalclock.css",
+		"/Users/ryancourtney/Desktop/Nycda/Courtney_homework2.zip/homework2.css",
+		"/Users/ryancourtney/Desktop/Homework4 2/homework4.html",
+		"/Users/ryancourtney/Desktop/Nycda/nycda_for_lunch/about.html",
+		"/Users/ryancourtney/Desktop/Nycda/nycda_for_lunch/donate.html",
+		"/Users/ryancourtney/Desktop/Nycda/nycda_for_lunch/css/index.css",
+		"/Users/ryancourtney/Desktop/Nycda/nycda_for_lunch/index.html",
+		"/Users/ryancourtney/Desktop/Homework4 2/homework4_2.js",
+		"/Users/ryancourtney/Desktop/Homework4 2/homework4_2.html",
+		"/Users/ryancourtney/Desktop/Homework4 2/homework4.js",
+		"/Users/ryancourtney/Desktop/Homework4/homework4.js",
+		"/Users/ryancourtney/Desktop/Homework 4.html",
+		"/Users/ryancourtney/Desktop/homework4_2.js",
+		"/Users/ryancourtney/Desktop/homework4_2.html",
+		"/Users/ryancourtney/Desktop/homework4.js",
+		"/Users/ryancourtney/Desktop/homework4.html",
+		"/Users/ryancourtney/Desktop/homework4.2.html",
+		"/Users/ryancourtney/Desktop/froyo.js",
+		"/Users/ryancourtney/Desktop/homework3.js",
+		"/Users/ryancourtney/Desktop/Homework3.html",
+		"/Users/ryancourtney/Desktop/nycda_for_lunch/index.html",
+		"/Users/ryancourtney/Desktop/nycda_for_lunch/donate.html",
+		"/Users/ryancourtney/Desktop/Nycda/homework2.css",
+		"/Users/ryancourtney/Desktop/Nycda/homework2.html",
+		"/Users/ryancourtney/Desktop/nycda_for_lunch/css/index.css",
+		"/Users/ryancourtney/Desktop/nycda_for_lunch/css/style.css",
+		"/Users/ryancourtney/Desktop/Nycda/profile_prework.html",
+		"/Users/ryancourtney/Desktop/Courtney_homework2 3.zip/homework2.css",
+		"/Users/ryancourtney/Desktop/Nycda/index.html",
+		"/Users/ryancourtney/Desktop/Nycda/Acme.css",
+		"/Users/ryancourtney/Desktop/Nycda/mobileexercise.css",
+		"/Users/ryancourtney/Desktop/Nycda/mobileexercise.html",
+		"/Users/ryancourtney/Desktop/Nycda/Navbarexercise.html",
+		"/Users/ryancourtney/Desktop/Courtney_Homework1.txt",
+		"/Users/ryancourtney/Desktop/Prework/index.html",
+		"/Users/ryancourtney/Desktop/courtney_assignment4/main.js",
+		"/Users/ryancourtney/Desktop/Prework/main.js",
+		"/Users/ryancourtney/Desktop/Prework/main.html",
+		"/Users/ryancourtney/Desktop/Prework/Hobbies.html",
+		"/Users/ryancourtney/Desktop/Prework/Photos.html",
+		"/Users/ryancourtney/Desktop/Prework/hobbies.css",
+		"/Users/ryancourtney/Desktop/index1.html",
+		"/Users/ryancourtney/Desktop/Prework/photos.css",
+		"/Users/ryancourtney/Desktop/Prework/main.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var punch = 0;\nvar wallet = 100;\n\nwhile (punch < 10){\n\tpunch += 1;\n\twallet -= 5;\n\tconsole.log(\"You Have\" + punch + \"punches and\" + wallet + \"dollars remaining\")\n}\n\nconsole.log(\"Free Froyo!\")\n",
+			"punch",
+			"var punch = 0;\nvar wallet = 100;\n\nwhile (punch < 10){\n\tpunch += 1;\n\twallet -= 5;\n\tconsole.log(\"You Have\" + punch + \"punches and\" + wallet + \"dollars remaining\")\n}\n\nconsole.log(\"Free Froyo!\")",
+			"var punch = 0;\nvar wallet = 100;\n\nwhile (punch < 10){\n\tpunch += 1;\n\twallet -= 5;\n\tconsole.log(\"You Have\" + punch + \"punches and\" + wallet + \"dollars remaining\")\n}"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "city.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/object.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

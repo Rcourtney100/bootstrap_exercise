@@ -1,0 +1,15 @@
+.gradient-text {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 20px;
+  overflow: hidden;
+  border: none;
+  font: normal 52px/1 "Audiowide", Helvetica, sans-serif;
+  color: #696969;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-shadow: 8px 8px 10px; }
+
+/*# sourceMappingURL=styles.css.map */
